@@ -46,7 +46,7 @@ nav ul li a:hover{
 }
 
 .hero {
-    background-image: url(/imagenes/plano-general.jpg);
+    background-image: url(imagenes/plano-general.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
